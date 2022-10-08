@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleDataCallback</string>
+    <string name="addition">+</string>
 </resources>
